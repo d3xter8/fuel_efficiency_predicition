@@ -1,0 +1,9 @@
+2026-02-17 13:33:32.326214 - Input: [[4.0, 100.0, 3000.0, 15.0]] - Prediction: Low Efficiency ⛽
+2026-02-17 13:34:04.947842 - Input: [[6.0, 120.0, 4172.0, 16.41]] - Prediction: Low Efficiency ⛽
+2026-02-17 13:34:16.614628 - Input: [[6.0, 168.0, 4070.0, 18.69]] - Prediction: Low Efficiency ⛽
+2026-02-17 13:34:18.944807 - Input: [[6.0, 168.0, 2219.0, 8.45]] - Prediction: High Efficiency 🚗💨
+2026-02-17 13:48:09.413556 - Input: [[6.0, 196.0, 4313.0, 17.22]] - Prediction: Low Efficiency ⛽
+2026-02-17 13:52:18.961458 - Input: [[8.0, 136.0, 2730.0, 11.47]] - Prediction: High Efficiency 🚗💨
+2026-02-18 18:52:45.122335 - Input: [[6.0, 198.0, 3413.0, 10.73]] - Prediction: Low Efficiency ⛽
+2026-02-18 18:54:13.310330 - Input: [[7.0, 216.0, 4263.0, 20.66]] - Prediction: Low Efficiency ⛽
+2026-02-18 18:54:19.022096 - Input: [[5.0, 105.0, 2002.0, 10.36]] - Prediction: High Efficiency 🚗💨
